@@ -1,5 +1,6 @@
 userids = {
 [137640845] = true, --ejmd
+[3122289773] = true, --johny
 [3448550566] = true, --gwapo7
 [2383758777] = true, --grid
 [2383748814] = true, --grid
